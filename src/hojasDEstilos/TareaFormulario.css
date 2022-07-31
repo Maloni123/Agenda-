@@ -1,0 +1,32 @@
+.formulario{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+.input{
+    width: 350px;
+    background-color: rgb(226, 226, 166);
+    font-size: 20px;
+    padding: 14px 32px  14px 16px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid rgb(53, 112, 238);
+    outline: none;
+}
+
+.boton{
+
+    padding: 16px;
+    border-radius: 10px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background: rgb(37, 231, 102);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    text-transform: capitalize;
+}

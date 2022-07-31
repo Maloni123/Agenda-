@@ -1,0 +1,28 @@
+.contacto-container{
+    width: 500px;
+    min-height: 65px;
+    background-color:rgb(152, 226, 152) ;
+    margin: 5px 0;
+    padding: 8px 15px 8px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 7px;
+    border: 2px solid rgb(19, 19, 19);
+    cursor: pointer;
+}
+
+.contacto-texto{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    overflow-wrap: anywhere;
+    font-family: 'Times New Roman', Times, serif;
+}
+.icono{
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
